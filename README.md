@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 <br />
 
-<img align="right" alt="GIF" src="https://ru.wikipedia.org/wiki/OpenStack#/media/%D0%A4%D0%B0%D0%B9%D0%BB:OpenStack.png" width="400" height="280" />
+<img align="right" alt="GIF" src="https://commons.bmstu.wiki/images/9/99/Openstack_logo.png" width="400" height="280" />
   
 **Languages and Tools:**  
 
