@@ -37,10 +37,11 @@ Here are some ideas to get you started:
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-
+<br />
+<br />
 <br />
 
-Привет, меня зовут LEV. Сейчас учусь на ИТ-специалиста. Изучаю Git и ещё несколько интересных технологий.
+ Привет, меня зовут LEV. Сейчас учусь на ИТ-специалиста. Изучаю Git и ещё несколько интересных технологий.
 
 <br />
 
