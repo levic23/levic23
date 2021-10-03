@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 
 🚧 **Мои задачи на ближайшее время:**
 <!-- TODO-IST:START -->
-* [x] Linux RHELL/Ubuntu
+* [x] Linux RHEL/Ubuntu
 * [ ] QEMU-KVM
 * [ ] OpenStack TripleO/Kolla-Ansible
 * [ ] Ceph
