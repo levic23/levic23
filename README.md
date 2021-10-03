@@ -60,6 +60,7 @@ Here are some ideas to get you started:
 <!-- TODO-IST:START -->
 * [x] Linux RHEL/Ubuntu
 * [ ] QEMU-KVM
+* [ ] Network
 * [ ] OpenStack TripleO/Kolla-Ansible
 * [ ] Ceph
 * [ ] MySQL/MarriaDB/PostgreSQL/InfluxDB
