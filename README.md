@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 * [ ] QEMU-KVM
 * [ ] OpenStack TripleO/Kolla-Ansible
 * [ ] Ceph
-* [ ] MySQL/MarriaDB/Postgress
+* [ ] MySQL/MarriaDB/Postgress/InfluxDB
 * [ ] Docker
 * [ ] Kubernetes
 * [ ] Ansible
